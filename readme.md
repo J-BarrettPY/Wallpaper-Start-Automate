@@ -1,6 +1,8 @@
 # Wallpaper-Start-Automate
 ### Wallpaper Engine - Steam Application
 
+------------------------
+
 Literally just automates the process of starting your wallpaper from Wallpaper engine.
 Thats it. Thats the meme.
 
